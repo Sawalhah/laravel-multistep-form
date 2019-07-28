@@ -1,3 +1,6 @@
-1. composer install
-2. php atrisan migrate
-3. php artisan serve
+# Multi Step form with laravel
+```
+# composer install
+# php atrisan migrate
+# php artisan serve
+```
